@@ -1,2 +1,2 @@
-from .mylib import *
-import .HTTPFapper
+from .utils import *
+from . import HTTPFapper
